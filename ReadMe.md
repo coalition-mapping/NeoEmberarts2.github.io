@@ -1,3 +1,5 @@
+# DragABot.js
+
 If you want to assist in the development of this website, please join the discord support server
 https://discord.gg/kERrndv
 
